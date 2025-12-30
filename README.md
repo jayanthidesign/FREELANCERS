@@ -48,7 +48,7 @@ Min Hourly rate - $20
 
 1.Excel / CSV – Data cleaning and preprocessing
 
-2.Power BI / Tableau – Interactive dashboard creation
+2.Power BI – Interactive dashboard creation
 
 
 # Key Insights
