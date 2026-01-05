@@ -19,17 +19,6 @@ Identify trends to support data-driven decision-making
 
 
 
-# Data Summary
-
-Total Freelancers- 997
-
-Projects Count- 8679
-
-Average Rating- 2.6
-
-Max Hourly rate - $100
-
-Min Hourly rate - $20
 
 # Tools & Technologies Used
 
