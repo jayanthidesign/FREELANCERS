@@ -1,11 +1,11 @@
 # Freelancer Dataset Analysis
 
 
-# Dataset Overview
+# Dataset Overview:
 
 This project analyzes a comprehensive Freelancer Dataset to understand global freelancer profiles, project performance, skill distribution, hourly rates, and experience levels. The goal is to build an interactive dashboard that provides clear insights into freelancer activity, project progress, and market trends.
 
-# Objectives
+# Objectives:
 
 Analyze freelancer demographics across different regions
 
@@ -20,14 +20,14 @@ Identify trends to support data-driven decision-making
 
 
 
-# Tools & Technologies Used
+# Tools & Technologies Used:
 
 1.Excel / CSV – Data cleaning and preprocessing
 
 2.Power BI – Interactive dashboard creation
 
 
-# Key Insights
+# Key Insights:
 
 The platform has 997 freelancers, out of which 446 are active, indicating moderate engagement.
 
@@ -47,7 +47,7 @@ Countries such as South Korea, Canada, and Australia contribute the highest numb
 
 
 
-# Conclusion
+# Recommendations:
 
 This freelancer dashboard provides a comprehensive view of the global freelance ecosystem by analyzing freelancer demographics, skills, pricing, and project performance. The analysis reveals strong demand for technical skills, moderate engagement levels, and opportunities to improve project completion and freelancer ratings. By leveraging these insights, platforms and stakeholders can enhance freelancer matching, optimize pricing strategies, and improve overall marketplace efficiency.
 
